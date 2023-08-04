@@ -1,0 +1,5 @@
+{
+	"name": "Trust Mail",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-18-bullseye",
+	"remoteUser": "node"
+}
